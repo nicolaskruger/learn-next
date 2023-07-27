@@ -7,6 +7,7 @@ export default function Home() {
     "/003counter",
     "/004user",
     "/005sum-by-amount",
+    "/006link-to-id",
   ];
 
   return (
