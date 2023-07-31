@@ -13,6 +13,8 @@ export default function Home() {
     "/blog",
     "/007d-route/1",
     "/008catch-all/1/2/3",
+    "/009optional/1/2/3",
+    "/010loading",
   ];
 
   return (
