@@ -11,6 +11,7 @@ export default function Home() {
     "/account",
     "/about",
     "/blog",
+    "/007d-route/1",
   ];
 
   return (
