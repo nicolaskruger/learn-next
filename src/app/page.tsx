@@ -15,6 +15,8 @@ export default function Home() {
     "/008catch-all/1/2/3",
     "/009optional/1/2/3",
     "/010loading",
+    "/011error",
+    "/012paralel",
   ];
 
   return (
