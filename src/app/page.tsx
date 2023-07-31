@@ -17,6 +17,8 @@ export default function Home() {
     "/010loading",
     "/011error",
     "/012paralel",
+    "/013intercept/feed",
+    "/013intercept/photo/123",
   ];
 
   return (
