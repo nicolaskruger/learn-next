@@ -8,6 +8,9 @@ export default function Home() {
     "/004user",
     "/005sum-by-amount",
     "/006link-to-id",
+    "/account",
+    "/about",
+    "/blog",
   ];
 
   return (
