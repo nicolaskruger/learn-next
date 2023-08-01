@@ -19,6 +19,7 @@ export default function Home() {
     "/012paralel",
     "/013intercept/feed",
     "/013intercept/photo/123",
+    "/014fetch",
   ];
 
   return (
